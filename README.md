@@ -1,4 +1,3 @@
-# Piano com ESP32
 Desenvolvido por:
 - Natalie Isernhagen Coelho
 - Nicolas de Sousa Maia
@@ -21,3 +20,4 @@ Quando executado um simulador de piano (no dispositivo conectado), as notas ser�
 Nesse projeto, o simulador usado está disponível neste link https://www.onlinepianist.com/virtual-piano
 
 # Vídeo
+Link para o vídeo: https://www.youtube.com/v=yq4ovSmSFDU
